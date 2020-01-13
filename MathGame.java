@@ -120,7 +120,7 @@ public class MathGame implements ActionListener{
 
 	String[] operator;
 	String displayOp;
-	int quesNum = 0;
+	int quesNum = 1;
 	int numCorrect = 0;
 	int numIncorrect = 0;
 	String userAns;
