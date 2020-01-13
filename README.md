@@ -5,7 +5,7 @@ An educative math game designed for elementary school students. The game allows 
 
 #### Gameplay
 ![mathgame1](https://user-images.githubusercontent.com/45665593/72235688-92f8b100-35a1-11ea-91ff-48bf78c4f9a4.gif) <br>
-A look at the menu andd preference selection screen.
+A look at the menu and preference selection screen.
 
 ![mathgame2](https://user-images.githubusercontent.com/45665593/72235690-9429de00-35a1-11ea-813c-73d7c8e98adc.gif) <br>
 A look at the questions portion of the game, as well as the feature of changing your preference if the questions are too easy/hard.
